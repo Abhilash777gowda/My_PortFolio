@@ -24,11 +24,11 @@ app.use('/api/contact', contactRoutes);
 
 // Serve static assets in production
 if (process.env.NODE_ENV === 'production') {
-    // Set static folder
-    app.use(express.static(path.join(__dirname, '../client/dist')));
+    const buildPath = path.join(__dirname, '..', 'client', 'dist');
+    app.use(express.static(buildPath));
 
     app.get('*', (req, res) => {
-        res.sendFile(path.resolve(__dirname, '../client', 'dist', 'index.html'));
+        res.sendFile(path.join(buildPath, 'index.html'));
     });
 } else {
     app.get('/', (req, res) => {
