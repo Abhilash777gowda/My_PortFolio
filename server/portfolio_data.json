@@ -1,0 +1,88 @@
+{
+    "personal_info": {
+        "name": "Abhilash R",
+        "location": "Bengaluru, India",
+        "email": "abhilashgowda052003@gmail.com",
+        "phone": "+91-6363486508",
+        "profile_summary": "Web Developer skilled in building full-stack websites from scratch using MERN stack and modern web technologies. Passionate about crafting innovative user experiences and solving real-world problems through responsive and scalable web applications."
+    },
+    "technical_skills": {
+        "frontend": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "React.js",
+            "jQuery"
+        ],
+        "backend": [
+            "Node.js",
+            "Express.js",
+            "PHP"
+        ],
+        "database": [
+            "MongoDB",
+            "MySQL"
+        ],
+        "programming_languages": [
+            "Python",
+            "Java",
+            "JavaScript"
+        ],
+        "tools_other": [
+            "Git",
+            "Web APIs",
+            "Responsive Web Design"
+        ]
+    },
+    "projects": [
+        {
+            "title": "Movie App",
+            "stack": "MERN Stack",
+            "description": "Built a fully functional movie browsing platform from scratch. Implemented searching, filtering, and CRUD operations with MongoDB. Designed user-friendly UI with React and ensured smooth experience."
+        },
+        {
+            "title": "Online Bidding System",
+            "stack": "MERN Stack",
+            "description": "Created a dynamic platform supporting real-time bidding and user roles. Integrated backend APIs using Express.js with secure data handling. Focused on usability and innovative bidding interactions."
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "institution": "Kristu Jayanti College, Bengaluru",
+            "year": "2026 (Pursuing)"
+        },
+        {
+            "degree": "Bachelor of Computer Applications (BCA)",
+            "institution": "Bangalore North University",
+            "year": "2024",
+            "percentage": "78%"
+        },
+        {
+            "degree": "12th Grade",
+            "institution": "BGS Composite PU College",
+            "year": "2021",
+            "percentage": "81%"
+        },
+        {
+            "degree": "10th Grade",
+            "institution": "Katherine Public School",
+            "year": "2019",
+            "percentage": "73.3%"
+        }
+    ],
+    "strengths": [
+        "Creative thinker with strong innovation mindset",
+        "Ability to communicate concepts clearly (storytelling)",
+        "Fast learner with excellent problem-solving skills"
+    ],
+    "certifications": [
+        "React Certification"
+    ],
+    "languages": [
+        "Kannada",
+        "Telugu",
+        "Hindi",
+        "English"
+    ]
+}
